@@ -33,3 +33,9 @@ When you don't want to use the virtual environment any more - i.e. the end of th
 ```bash
 deactivate
 ```
+
+# Approval tests
+
+```bash
+pip install approvaltests
+```
